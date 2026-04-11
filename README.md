@@ -21,9 +21,13 @@
 Supply-side allocation feature letting captains select preferred routes. Ran A/B experiments in Delhi & Jaipur — 50% driver engagement lift, rolled out to 20+ cities.
 `Marketplaces` `A/B Testing` `Supply-side Optimization`
 
-**🌏 greytHR PRO — International Expansion**
-Led 0→1 launch across India and Indonesia. Built a market scoring framework across 20 SEA/ME markets. 30+ customers in Q1 with Indonesia as anchor market.
-`GTM` `B2B SaaS` `Market Scoring Framework`
+**📈 greytHR PRO — Launched and Scaled across countries  **
+Led 0→1 launch across India and Indonesia. 4x Enterprise customers in 4 months. 30+ customers in Q1 in Indonesia as anchor product. 
+`GTM` `B2B SaaS` 
+
+**🌏greytHR Payroll - International Expansion**
+Built a market scoring framework across 20 SEA/ME markets. Informing the international expansion plan for greytHR. 
+`Market Scoring Framework`
 
 **📊 Analytics Infrastructure — greytHR**
 Built event tracking and KPI dashboards from scratch in Mixpanel, GA, and Superset. Cut decision cycle time by 40%.
