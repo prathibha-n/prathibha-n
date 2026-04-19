@@ -39,10 +39,16 @@ Redesigned data pipelines, cutting client delivery timelines by 8 days. Shipped 
 
 ---
 
-## 🛠 Personal Projects
+## 🛠 Independent PM Projects
 
 | Project | Description |
 |---|---|
+| [EV Conversion Incentives](https://github.com/prathibha-n/portfolio-pm/tree/main/EV-conversion-incentives) | Strategy toolkit for converting active drivers to EVs on ridehailing platforms. Combines SQL-based driver targeting with incentive design and charging infrastructure to overcome capital barriers, infrastructure anxiety, and information gaps. |
+| [Beauty Retention Analysis](https://github.com/prathibha-n/portfolio-pm/tree/main/beauty-retention-analysis) | PM-led retention cohort analysis for beauty ecommerce. Includes SQL cohort model, customer segmentation by channel and category, and a data-grounded lifecycle strategy with experiment roadmap. |
+| [Darkstore Optimisation](https://github.com/prathibha-n/portfolio-pm/tree/main/darkstore-optimisation) | End-to-end dashboard and optimization framework for dark store slot utilization. Uses demand forecasting (Prophet/SARIMA), waste analysis, restocking triggers, and A/B test design to reduce picker idle time. |
+| [PRD Voice AI Captain](https://github.com/prathibha-n/portfolio-pm/tree/main/prd-voice-ai-captain) | Full PRD for a voice AI assistant reducing cognitive load for last-mile delivery drivers on two-wheelers. Includes user journey map, feature taxonomy, safety constraints, and phased rollout plan. |
+| [Recommendation Collapse](https://github.com/prathibha-n/portfolio-pm/tree/main/recommendation-collapse) | Analysis of feedback loop collapse in ranking systems. Simulates the problem mechanism and tests Inverse Propensity Weighting (IPW) correction to fix position bias in marketplace rankings. |
+| [Returns Risk Intervention](https://github.com/prathibha-n/portfolio-pm/tree/main/returns-risk-intervention) | Checkout-time return prediction system for fashion e-commerce. Scores orders on 11 signals, decomposes risk drivers, and routes contextual interventions (size guides, COD restrictions) to reduce 25-40% return rates. |
 | [🗺 WanderPlan](https://nprathibhawrk.wixsite.com/portfolio/wanderplan) | AI travel itinerary planner with real-time recommendations |
 | [🍳 PantryPulse](https://nprathibhawrk.wixsite.com/portfolio/pantrypulse-1) | Voice-first cooking & inventory app with expiration tracking |
 | [🧠 Sophia](https://nprathibhawrk.wixsite.com/portfolio/sophia) | Conversational AI philosophy platform for non-academics |
