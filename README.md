@@ -21,7 +21,7 @@
 Supply-side allocation feature letting captains select preferred routes. Ran A/B experiments in Delhi & Jaipur — 50% driver engagement lift, rolled out to 20+ cities.
 `Marketplaces` `A/B Testing` `Supply-side Optimization`
 
-**📈 greytHR PRO — Launched and Scaled across countries  **
+**📈 greytHR PRO — Launched and Scaled across countries**
 Led 0→1 launch across India and Indonesia. 4x Enterprise customers in 4 months. 30+ customers in Q1 in Indonesia as anchor product. 
 `GTM` `B2B SaaS` 
 
