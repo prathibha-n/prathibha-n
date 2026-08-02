@@ -41,6 +41,11 @@ Redesigned data pipelines, cutting client delivery timelines by 8 days. Shipped 
 
 ## 🛠 Independent PM Projects
 
+<!-- INDEX:START -->
+<!-- INDEX:END -->
+
+
+
 | Project | Description |
 |---|---|
 | [EV Conversion Incentives](https://github.com/prathibha-n/portfolio-pm/tree/main/EV-conversion-incentives) | Strategy toolkit for converting active drivers to EVs on ridehailing platforms. Combines SQL-based driver targeting with incentive design and charging infrastructure to overcome capital barriers, infrastructure anxiety, and information gaps. |
