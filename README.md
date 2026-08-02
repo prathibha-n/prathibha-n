@@ -41,13 +41,13 @@ Redesigned data pipelines, cutting client delivery timelines by 8 days. Shipped 
 
 ## 🛠 Independent PM Projects
 
-<!-- INDEX:START -->
-<!-- INDEX:END -->
+
 
 
 
 | Project | Description |
 |---|---|
+| [Citibike Dataset - Identification of Casual Riders through ride data only](Citibike-casual-rider-conversion/) | Predict whether a Citi Bike trip belongs to a Member or Casual rider, using ride behavior alone - with the business goal of identifying casual riders whose behavior already resembles a member's, as targets for conversion. |
 | [EV Conversion Incentives](https://github.com/prathibha-n/portfolio-pm/tree/main/EV-conversion-incentives) | Strategy toolkit for converting active drivers to EVs on ridehailing platforms. Combines SQL-based driver targeting with incentive design and charging infrastructure to overcome capital barriers, infrastructure anxiety, and information gaps. |
 | [Beauty Retention Analysis](https://github.com/prathibha-n/portfolio-pm/tree/main/beauty-retention-analysis) | PM-led retention cohort analysis for beauty ecommerce. Includes SQL cohort model, customer segmentation by channel and category, and a data-grounded lifecycle strategy with experiment roadmap. |
 | [Darkstore Optimisation](https://github.com/prathibha-n/portfolio-pm/tree/main/darkstore-optimisation) | End-to-end dashboard and optimization framework for dark store slot utilization. Uses demand forecasting (Prophet/SARIMA), waste analysis, restocking triggers, and A/B test design to reduce picker idle time. |
